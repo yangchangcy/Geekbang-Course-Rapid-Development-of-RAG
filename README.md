@@ -4,7 +4,8 @@
 
 课程链接：https://time.geekbang.com/column/intro/100804101
 
-玩转 RAG 的保姆级教程!
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/0abc90d4-0457-466a-ba99-f378368a1c87">
+
 
 随着 AI 2.0 时代的来临，我们正站在一个技术革新和行业变革的交汇点。大语言模型虽然在多个领域取得了突破，但在特定领域的应用仍面临挑战。而 RAG 技术以其独特的能力，通过整合外部知识库与文档，显著提升了模型的专业性能和回答精度，成为大模型应用的重要技术方向。掌握 RAG 技术，已成为拥抱 AI 时代的必然选择。
 
