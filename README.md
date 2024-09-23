@@ -24,4 +24,4 @@
 
 紧跟 GraphRAG 等前沿 RAG 技术动态
 
-https://static001.geekbang.org/resource/image/bc/93/bc4a97f9e18acbc42958987934f06893.jpg?wh=3126x3693![image](https://github.com/user-attachments/assets/78da9615-f118-4579-9541-0d0a2693f64e)
+i![image](https://github.com/user-attachments/assets/78da9615-f118-4579-9541-0d0a2693f64e)
