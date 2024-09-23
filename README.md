@@ -24,4 +24,4 @@
 
 紧跟 GraphRAG 等前沿 RAG 技术动态
 
-i![image](https://github.com/user-attachments/assets/78da9615-f118-4579-9541-0d0a2693f64e)
+![image](https://github.com/user-attachments/assets/78da9615-f118-4579-9541-0d0a2693f64e)
